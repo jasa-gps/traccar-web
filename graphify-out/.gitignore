@@ -1,0 +1,9 @@
+# graphify internal state — not deliverables
+cache/
+cost.json
+manifest.json
+.graphify_python
+.graphify_root
+.graphify_labels.json
+.graphify_*.json
+.needs_update
